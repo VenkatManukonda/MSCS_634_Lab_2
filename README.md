@@ -1,4 +1,4 @@
-### MSCS_634_Lab_2
+## MSCS_634_Lab_2
 ## Lab Overview
 In this lab, I compared K-Nearest Neighbors (KNN) and Radius Neighbors (RNN) using the Wine dataset from scikit-learn. The goal was to see how changing the neighborhood settings affects classification accuracy and to better understand how distance-based classifiers behave under different parameter values.
 
